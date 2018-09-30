@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_arrow"
+        android:icon="@drawable/ic_arrow_back_black"
+        android:title="Back"
+        />
+
+    <item
+        android:id="@+id/ic_bookmark"
+        android:icon="@drawable/ic_bookmark_green"
+        android:title="Bookmark"
+        />
+    <item
+        android:id="@+id/ic_favorite"
+        android:icon="@drawable/ic_favorite_green"
+        android:title="Favorite"
+        />
+    <item
+        android:id="@+id/ic_delete"
+        android:icon="@drawable/ic_delete_green"
+        android:title="Delete"
+        />
+
+
+
+</menu>
